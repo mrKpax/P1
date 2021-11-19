@@ -2,6 +2,7 @@
 Programmi in C per il corso di Programmazione I
 
 ## Programmi fini a sé stessi:
+- **calcolatrice**: esegue addizione, sottrazione, prodotto e differenza tra due numeri reali;
 - **medianum**: legge due numeri interi e calcola la loro media;
 - **parcheggio**: chiede il numero di ore e visualizza il totale da pagare;
 - **presuc**: legge un numero intero e visualizza l'intero precedente e quello successivo;
