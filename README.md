@@ -7,6 +7,7 @@ Programmi in C per il corso di Programmazione I
 - **calcolatrice**: esegue addizione, sottrazione, prodotto e differenza tra due numeri reali;
 - **medianum**: legge due numeri interi e calcola la loro media;
 - **moto**: calcola quanti chilometri percorre una moto con 1 litro di benzina;
+- **nalquadrato**: calcola il quadrato di un numero reale;
 - **parcheggio**: chiede il numero di ore e visualizza il totale da pagare;
 - **presuc**: legge un numero intero e visualizza l'intero precedente e quello successivo;
 - **sizeoftipi**: visualizza quanti bytes occupa ogni tipo;
