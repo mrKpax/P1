@@ -1,7 +1,8 @@
 # Linguaggio C
 Programmi in C per il corso di Programmazione I
 
-## Programmi fini a sé stessi:
+## Fini a sé stessi:
+- **bolletta**: calcola e visualizza il numero di kwh da addebitare e l'ammontare della bolletta di un utente;
 - **calcolatrice**: esegue addizione, sottrazione, prodotto e differenza tra due numeri reali;
 - **medianum**: legge due numeri interi e calcola la loro media;
 - **parcheggio**: chiede il numero di ore e visualizza il totale da pagare;
