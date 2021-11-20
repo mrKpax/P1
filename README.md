@@ -8,6 +8,7 @@ Programmi in C per il corso di Programmazione I
 - **moto**: calcola quanti chilometri percorre una moto con 1 litro di benzina;
 - **parcheggio**: chiede il numero di ore e visualizza il totale da pagare;
 - **presuc**: legge un numero intero e visualizza l'intero precedente e quello successivo;
+- **sizeoftipi**: visualizza quanti bytes occupa ogni tipo;
 - **tabella**: sequenza di escape;
 
 ## Programmini:
