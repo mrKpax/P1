@@ -3,6 +3,7 @@ Programmi in C per il corso di Programmazione I
 
 ## Fini a sé stessi:
 - **bolletta**: calcola e visualizza il numero di kwh da addebitare e l'ammontare della bolletta di un utente;
+- **broker**: calcola le commissioni di un broker finanziario, (if else annidati);
 - **calcolatrice**: esegue addizione, sottrazione, prodotto e differenza tra due numeri reali;
 - **medianum**: legge due numeri interi e calcola la loro media;
 - **moto**: calcola quanti chilometri percorre una moto con 1 litro di benzina;
