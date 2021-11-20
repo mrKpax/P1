@@ -16,6 +16,7 @@ Programmi in C per il corso di Programmazione I
 ## Cicli:
 - **mediavoti**: (while) calcola la media dei voti di n studenti;
 - **potenza2**: (while) trova la prima potenza di 2 maggiore di 1000;
+- **quadrato** (while) stampa un quadrato pieno di asterischi di lato n;
 
 ## Programmini:
 - **armstrong**: programma che individua i numeri di Armstrong a tre cifre; 
