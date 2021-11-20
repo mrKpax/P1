@@ -13,5 +13,8 @@ Programmi in C per il corso di Programmazione I
 - **sizeoftipi**: visualizza quanti bytes occupa ogni tipo;
 - **tabella**: sequenza di escape;
 
+## Cicli:
+- **potenza2**: (while) trova la prima potenza di 2 maggiore di 1000;
+
 ## Programmini:
 - **armstrong**: programma che individua i numeri di Armstrong a tre cifre; 
