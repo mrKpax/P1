@@ -5,6 +5,7 @@ Programmi in C per il corso di Programmazione I
 - **bolletta**: calcola e visualizza il numero di kwh da addebitare e l'ammontare della bolletta di un utente;
 - **calcolatrice**: esegue addizione, sottrazione, prodotto e differenza tra due numeri reali;
 - **medianum**: legge due numeri interi e calcola la loro media;
+- **moto**: calcola quanti chilometri percorre una moto con 1 litro di benzina;
 - **parcheggio**: chiede il numero di ore e visualizza il totale da pagare;
 - **presuc**: legge un numero intero e visualizza l'intero precedente e quello successivo;
 - **tabella**: sequenza di escape;
