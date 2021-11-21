@@ -30,5 +30,6 @@ Programmi in C per il corso di Programmazione I
 - **sommawhile**: (while) somma dei primi n numeri pari;
 - **triangolo**: (for) stampa un triangolo di asterischi di n livelli;
 
-## Programmini:
+## Array:
 - **armstrong**: programma che individua i numeri di Armstrong a tre cifre; 
+- **reverse**: legge un elenco di 10 valori e lo ristampa al contrario;
