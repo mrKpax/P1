@@ -15,6 +15,7 @@ Programmi in C per il corso di Programmazione I
 
 ## Cicli:
 - **bisestili**: (while) stampa tutti gli anni bisestili dal 1600 al 10000;
+- **dispari**: (while) stampa i numeri dispari da 13 a 37;
 - **mediavoti**: (while) calcola la media dei voti di n studenti;
 - **multipli7**: (while) stampa i multipli di 7 in ordine decrescente a partire da 1000;
 - **potenza2**: (while) trova la prima potenza di 2 maggiore di 1000;
