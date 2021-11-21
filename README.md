@@ -22,6 +22,7 @@ Programmi in C per il corso di Programmazione I
 - **quadrato** (while) stampa un quadrato di asterischi pieno di lato n;
 - **quadratovuoto**: (while, for) stampa un quadrato di asterischi vuoto all'interno;
 - **rettangolo**: (while, for) stampa un rettangolo di asterischi vuoto all'interno;
+- **sommafor**: (for) somma dei primi n numeri pari;
 - **sommawhile**: (while) somma dei primi n numeri pari;
 
 ## Programmini:
