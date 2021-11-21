@@ -32,4 +32,5 @@ Programmi in C per il corso di Programmazione I
 
 ## Array:
 - **armstrong**: programma che individua i numeri di Armstrong a tre cifre; 
-- **reverse**: legge un elenco di 10 valori e lo ristampa al contrario;
+- **inverti**: inverte l'ordine dei valori in una lista e la stampa;
+- **reverse**: legge un elenco di 10 valori e li ristampa al contrario;
