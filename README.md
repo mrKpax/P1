@@ -14,6 +14,7 @@ Programmi in C per il corso di Programmazione I
 - **tabella**: sequenza di escape;
 
 ## Cicli:
+- **bisestili**: (while) stampa tutti gli anni bisestili dal 1600 al 10000;
 - **mediavoti**: (while) calcola la media dei voti di n studenti;
 - **potenza2**: (while) trova la prima potenza di 2 maggiore di 1000;
 - **quadrato** (while) stampa un quadrato pieno di asterischi di lato n;
