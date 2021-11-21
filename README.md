@@ -19,8 +19,9 @@ Programmi in C per il corso di Programmazione I
 - **mediavoti**: (while) calcola la media dei voti di n studenti;
 - **multipli7**: (while) stampa i multipli di 7 in ordine decrescente a partire da 1000;
 - **potenza2**: (while) trova la prima potenza di 2 maggiore di 1000;
-- **quadrato** (while) stampa un quadrato pieno di asterischi di lato n;
-- **quadratovuoto**: (while, for) stampa un quadrato vuoto all'interno;
+- **quadrato** (while) stampa un quadrato di asterischi pieno di lato n;
+- **quadratovuoto**: (while, for) stampa un quadrato di asterischi vuoto all'interno;
+- **rettangolo**: (while, for) stampa un rettangolo di asterischi vuoto all'interno;
 
 ## Programmini:
 - **armstrong**: programma che individua i numeri di Armstrong a tre cifre; 
