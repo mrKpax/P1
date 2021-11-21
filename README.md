@@ -33,6 +33,7 @@ Programmi in C per il corso di Programmazione I
 ## Array:
 - **armstrong**: programma che individua i numeri di Armstrong a tre cifre; 
 - **compatta**: modifica un array sostituendo elementi consecutivi uguali con un'unica occorrenza (shift a sinistra);
+- **differenza**: stampa gli elementi presenti nell'array B che non sono presenti anche nell'array A (funzione ricerca, funzione elimina);
 - **eliminaelem**: elimina un elemento in un array in posizione pos (shift a sinistra);
 - **inseriscielem**: inserisce un elemento in un array in posizione pos (shift a destra);
 - **inverti**: inverte l'ordine dei valori in una lista e la stampa;
