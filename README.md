@@ -1,4 +1,4 @@
-# Linguaggio C
+# Linguaggio C 💻📚
 Programmi in C per il corso di Programmazione I
 
 ## Fini a sé stessi:
