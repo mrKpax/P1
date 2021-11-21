@@ -37,7 +37,7 @@ int main(void)
   int lista[NUMEL], n;
   
   GetLista(lista);
-  n=elimina(lista, NUMEL, 2);
+  n=elimina(lista, NUMEL, 2);  //elimina l'elemento in posizione 2
   stampa(lista, n);
   
   printf("\n");
