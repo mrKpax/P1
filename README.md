@@ -15,6 +15,7 @@ Programmi in C per il corso di Programmazione I
 
 ## Cicli:
 - **bisestili**: (while) stampa tutti gli anni bisestili dal 1600 al 10000;
+- **carte**: (for, switch) stampa i valori delle carte da gioco;
 - **dispari**: (while) stampa i numeri dispari da 13 a 37;
 - **fattoriale**: (do/while) calcola il fattoriale reiterato di un numero;
 - **mediavoti**: (while) calcola la media dei voti di n studenti;
