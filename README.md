@@ -37,6 +37,7 @@ Programmi in C per il corso di Programmazione I
 - **eliminaelem**: elimina un elemento in un array in posizione pos (shift a sinistra);
 - **inseriscielem**: inserisce un elemento in un array in posizione pos (shift a destra);
 - **inverti**: inverte l'ordine dei valori in una lista e la stampa;
+- **ioarray**: funzioni di input e output per un array bidimensionale;
 - **reverse**: legge un elenco di 10 valori e li ristampa al contrario;
 - **ricercabin**: ricerca binaria in un array ordinato;
 - **ricercaelemento**: ricerca di un elemento in un array;
