@@ -52,3 +52,4 @@ Programmi in C per il corso di Programmazione I
 ## Puntatori:
 - **azzera**: esempio di passaggi di parametri per indirizzo per modificare una variabile;
 - **divisioneintera**: esempio di funzione con duplice risultato;
+- **maxmin**: massimo e minimo in un array;
