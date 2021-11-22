@@ -37,6 +37,7 @@ Programmi in C per il corso di Programmazione I
 - **compatta2**: genera un secondo vettore B in cui viene compattato A (funzione ricerca);
 - **differenza**: stampa gli elementi presenti nell'array B che non sono presenti anche nell'array A (funzione ricerca, funzione elimina);
 - **eliminaelem**: elimina un elemento in un array in posizione pos (shift a sinistra);
+- **filtrosum**: copia in C gli elementi di A uguali alla somma di due elementi consecutivi di B;
 - **inseriscielem**: inserisce un elemento in un array in posizione pos (shift a destra);
 - **inverti**: inverte l'ordine dei valori in una lista e la stampa;
 - **ioarray**: funzioni di input e output per un array bidimensionale;
