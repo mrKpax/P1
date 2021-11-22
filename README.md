@@ -45,4 +45,5 @@ Programmi in C per il corso di Programmazione I
 - **ricercabin**: ricerca binaria in un array ordinato;
 - **ricercaelemento**: ricerca di un elemento in un array;
 - **ricercaord**: ricerca lineare in un array ordinato;
+- **summaxmin**: calcola la somma, il minimo e il massimo degli elementi di una matrice di dimensioni definite dall'utente;
 - **tavolapitagorica**: stampa una tavola pitagorica (array bidimensionali);
