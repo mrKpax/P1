@@ -48,3 +48,6 @@ Programmi in C per il corso di Programmazione I
 - **ricercaord**: ricerca lineare in un array ordinato;
 - **summaxmin**: legge e stampa una matrice, e ne calcola somma, minimo e massimo con tre funzioni diverse (array bidimensionali);
 - **tavolapitagorica**: stampa una tavola pitagorica (array bidimensionali);
+
+## Puntatori:
+- **azzera**: esempio di passaggi di parametri per indirizzo per modificare una variabile;
