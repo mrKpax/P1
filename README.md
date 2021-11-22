@@ -39,6 +39,7 @@ Programmi in C per il corso di Programmazione I
 - **eliminaelem**: elimina un elemento in un array in posizione pos (shift a sinistra);
 - **filtrosum**: copia in C gli elementi di A uguali alla somma di due elementi consecutivi di B;
 - **inseriscielem**: inserisce un elemento in un array in posizione pos (shift a destra);
+- **intersezione**: genera un terzo vettore C che contiene l'intersezione tra i vettori A e B;
 - **inverti**: inverte l'ordine dei valori in una lista e la stampa;
 - **ioarray**: funzioni di input e output per un array bidimensionale;
 - **reverse**: legge un elenco di 10 valori e li ristampa al contrario;
