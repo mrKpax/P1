@@ -31,7 +31,7 @@ Programmi in C per il corso di Programmazione I
 - **triangolo**: (for) stampa un triangolo di asterischi di n livelli;
 
 ## Array:
-- **armstrong**: programma che individua i numeri di Armstrong a tre cifre; 
+- **armstrong**: individua i numeri di Armstrong a tre cifre (cubi cifre = num); 
 - **bubblesort**: ordina un array scambiando gli elementi con la tecnica del bubblesort;
 - **compatta**: modifica un array sostituendo elementi consecutivi uguali con un'unica occorrenza (shift a sinistra);
 - **compatta2**: genera un secondo vettore B in cui viene compattato A (funzione ricerca);
