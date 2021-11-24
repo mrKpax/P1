@@ -42,6 +42,7 @@ Programmi in C per il corso di Programmazione I
 - **intersezione**: genera un terzo vettore C che contiene l'intersezione tra i vettori A e B;
 - **inverti**: inverte l'ordine dei valori in una lista e la stampa;
 - **ioarray**: funzioni di input e output per un array bidimensionale;
+- **numperfetto**: calcola l'inverso di un numero n se quest'ultimo è perfetto;
 - **reverse**: legge un elenco di 10 valori e li ristampa al contrario;
 - **ricercabin**: ricerca binaria in un array ordinato;
 - **ricercaelemento**: ricerca di un elemento in un array;
