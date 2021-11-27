@@ -44,6 +44,7 @@ Programmi in C per il corso di Programmazione I
 - **ioarray**: funzioni di input e output per un array bidimensionale;
 - **numperfetto**: calcola l'inverso di un numero n se quest'ultimo è perfetto;
 - **posizionepd**: dati due array ne costruisce un terzo che ha in posizioni pari gli elementi del primo e in posizioni dispari quelli del secondo;
+- **prodottoconsecutivi**: costruisce un secondo array i cui elementi sono il prodotto di due elementi consecutivi dell'array di partenza;
 - **quadcubo**: legge i valori dell'array A e ne calcola i quadrati, salvandoli in B, e i cubi, salvandoli in C;
 - **reverse**: legge un elenco di 10 valori e li ristampa al contrario;
 - **ricercabin**: ricerca binaria in un array ordinato;
