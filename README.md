@@ -58,3 +58,6 @@ Programmi in C per il corso di Programmazione I
 - **azzera**: esempio di passaggi di parametri per indirizzo per modificare una variabile;
 - **divisioneintera**: esempio di funzione con duplice risultato;
 - **maxmin**: massimo e minimo in un array;
+
+## Stringhe:
+- **postfisso**: verifica se una stringa è postfissa di un'altra e restituisce l'indirizzo in cui comincia il postfisso (strcmp, puntatori);
