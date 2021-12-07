@@ -55,6 +55,6 @@ Programmi in C per il corso di Programmazione I
 - **tavolapitagorica**: stampa una tavola pitagorica (array bidimensionali);
 
 ## Puntatori:
-- **ptr_azzera**: esempio di passaggi di parametri per indirizzo per modificare una variabile;
+- **azzera**: esempio di passaggi di parametri per indirizzo per modificare una variabile;
 - **divisioneintera**: esempio di funzione con duplice risultato;
 - **maxmin**: massimo e minimo in un array;
