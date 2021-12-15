@@ -64,4 +64,5 @@ ________________________________________________
 ## Stringhe:
 - **stringhe**: nozioni generali sulle stringhe;
 _______________________________________________
+- **minusmaius**: trasforma le maiuscole in minuscole e viceversa;
 - **postfisso**: verifica se una stringa è postfissa di un'altra e restituisce l'indirizzo in cui comincia il postfisso (strcmp, puntatori);
