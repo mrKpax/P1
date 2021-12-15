@@ -62,4 +62,6 @@ ________________________________________________
 - **maxmin**: massimo e minimo in un array;
 
 ## Stringhe:
+-**stringhe**: nozioni generali sulle stringhe;
+_______________________________________________
 - **postfisso**: verifica se una stringa è postfissa di un'altra e restituisce l'indirizzo in cui comincia il postfisso (strcmp, puntatori);
