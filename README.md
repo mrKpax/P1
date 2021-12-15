@@ -67,3 +67,8 @@ _______________________________________________
 - **contachar**: conta occorrenze di una lettera in una stringa, sia in minuscolo che in maiuscolo (offset, isalpha);
 - **minusmaius**: trasforma le maiuscole in minuscole e viceversa;
 - **postfisso**: verifica se una stringa è postfissa di un'altra e restituisce l'indirizzo in cui comincia il postfisso (strcmp, puntatori);
+
+## Allocazione dinamica:
+- **allocazionedinamica**: nozioni generali sull'allocazione dinamica (malloc, calloc, free);
+- ___________________________________________________________________________________________
+- 
