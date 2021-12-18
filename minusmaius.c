@@ -2,7 +2,7 @@
 #include <string.h>
 #define STR_LEN 50
 
-int leggi(char *s)
+int leggi(char *s) //same as (char s[])
 {
     printf("Inserisci la stringa: ");
     fgets(s, STR_LEN+1, stdin);
