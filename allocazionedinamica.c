@@ -38,9 +38,8 @@ void free(void *p); //prototipo
 
 p = malloc(...);
 q = malloc(...);
-p = q;
-free(p); //free libera il blocco di memoria puntato da p restituendolo all'heap
-//deallocando un blocco di memoria, il puntatore o i puntatori che lo indicavano diventano PENDENTI, ATTENZIONE!
+free(p);  //free libera il blocco di memoria puntato da p restituendolo all'heap
+p = q;    //deallocando un blocco di memoria, il puntatore o i puntatori che lo indicavano diventano PENDENTI, ATTENZIONE!
 
 //Esempio di uso di calloc()
 int *leggiNvalori (int numval)
