@@ -79,3 +79,4 @@ ________________________________________________________________________________
 - **record**: nozioni generali sui record;
 ___________________________________________
 - **distanza**: calcola la distanza tra due punti (esempio);
+- **triangoli**: confronta due triangoli e verifica se i lati sono uguali;
