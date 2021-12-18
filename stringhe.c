@@ -15,8 +15,17 @@ int main(void)
     char date[8] = "June 14"; //dichiarazione e inizializzazione di una stringa variabile
     char date[10] = "June 14"; //contenuto dell'array: J-u-n-e- -1-4-\0-\0-\0
     
-//FUNZIONI SU STRINGHE
-fgets(char *stringa, int lun, stdin);
+//LEGGI STRINGA
+void leggi(char *s)
+{
+	printf("inserisci la stringa: ");
+	fgets(s, maxlen, stdin);
+	int len = strlen(s);
+	if (len < maxlen)
+	{
+		s[len-1] = '\0';
+	}
+}
 
 //STRCPY e STRNCPY    
 char *strcpy(char *s1, char *s2); //copia la stringa puntata da s2 nell'array puntato da s1
