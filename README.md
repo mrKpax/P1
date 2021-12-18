@@ -71,4 +71,4 @@ _______________________________________________
 ## Allocazione dinamica:
 - **allocazionedinamica**: nozioni generali sull'allocazione dinamica (malloc, calloc, free);
 _____________________________________________________________________________________________
-- 
+- **elencocognomi**: riceve un elenco di nomi e cognomi (array bi di stringhe allocate dinamicamente) e dato un certo nome stampa i cognomi corrispondenti
