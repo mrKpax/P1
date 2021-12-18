@@ -6,11 +6,6 @@ if (p==NULL) //solo nel caso in cui non sia possibile allocare la quantità di m
    {
        //allocazione fallita, fai qualcosa
    }
-   
-if ((p = malloc(10000)) == NULL)
-{
-    //allocazione fallita, fai qualcosa
-}   
 
 void *malloc(int 10000); //prototipo
 p = malloc(n+1); //alloca memoria per una stringa di n caratteri
