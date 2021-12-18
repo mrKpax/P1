@@ -77,3 +77,5 @@ ________________________________________________________________________________
 
 ## Record:
 - **record**: nozioni generali sui record;
+___________________________________________
+- **distanza**: calcola la distanza tra due punti (esempio);
