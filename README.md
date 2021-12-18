@@ -73,4 +73,4 @@ _______________________________________________
 _____________________________________________________________________________________________
 - **elencocognomi**: riceve un elenco di nomi e cognomi (array bi di stringhe allocate dinamicamente) e dato un certo nome stampa i cognomi corrispondenti
 - **leggistringa**: funzioni per leggere stringhe;
-- **xmalloc**: malloc con controllo
+- **xmalloc**: malloc con controllo;
