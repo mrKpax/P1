@@ -80,4 +80,5 @@ ________________________________________________________________________________
 ___________________________________________
 - **codicefiscale**: verifica che il formato del codice fiscale sia corretto; 
 - **distanza**: calcola la distanza tra due punti (esempio);
+- **elencopersone**: crea e stampa un elenco di persone + varie funzioni di ricerca;
 - **triangoli**: confronta due triangoli e verifica se i lati sono uguali;
