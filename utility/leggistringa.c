@@ -12,14 +12,11 @@ char *leggi_stringa(int maxlen)
 {
     char *s, *s1;
     s = (char *) malloc(maxlen+1);
-    
     if (!s) 
     {
         return NULL;
     }
-    
     leggi(s);
-    
     int len = strlen(s);
     
     s1 = malloc(len+1);
@@ -28,7 +25,6 @@ char *leggi_stringa(int maxlen)
         free(s);
         return NULL;
     }
-    
     strncpy(s1, s, len);
     free(s);
     return s1;
