@@ -78,5 +78,6 @@ ________________________________________________________________________________
 ## Record:
 - **record**: nozioni generali sui record;
 ___________________________________________
+- **codicefiscale**: verifica che il formato del codice fiscale sia corretto; 
 - **distanza**: calcola la distanza tra due punti (esempio);
 - **triangoli**: confronta due triangoli e verifica se i lati sono uguali;
