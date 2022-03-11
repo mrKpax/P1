@@ -56,8 +56,6 @@ Primi programmi, fini a sé stessi.
 - **postfisso**: verifica se una stringa è postfissa di un'altra e restituisce l'indirizzo in cui comincia il postfisso (strcmp, puntatori);
 
 ## Allocazione dinamica:
-- **allocazionedinamica**: nozioni generali sull'allocazione dinamica (malloc, calloc, free);
-_____________________________________________________________________________________________
 - **elencocognomi**: riceve un elenco di nomi e cognomi (array bi di stringhe allocate dinamicamente) e dato un certo nome stampa i cognomi corrispondenti
 
 ## Record:
