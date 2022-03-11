@@ -1,17 +1,8 @@
 # Linguaggio C 💻📚
-Programmi in C per il corso di Programmazione I
+Programmi in C per il corso di Programmazione (P1 e Strutture Dati)
 
-## Fini a sé stessi:
-- **bolletta**: calcola e visualizza il numero di kwh da addebitare e l'ammontare della bolletta di un utente;
-- **broker**: calcola le commissioni di un broker finanziario, (if else annidati);
-- **calcolatrice**: esegue addizione, sottrazione, prodotto e differenza tra due numeri reali;
-- **medianum**: legge due numeri interi e calcola la loro media;
-- **moto**: calcola quanti chilometri percorre una moto con 1 litro di benzina;
-- **nalquadrato**: calcola il quadrato di un numero reale;
-- **parcheggio**: chiede il numero di ore e visualizza il totale da pagare;
-- **presuc**: legge un numero intero e visualizza l'intero precedente e quello successivo;
-- **sizeoftipi**: visualizza quanti bytes occupa ogni tipo;
-- **tabella**: sequenza di escape;
+## Robaccia:
+Primi programmi, fini a sé stessi.
 
 ## Cicli:
 - **bisestili**: (while) stampa tutti gli anni bisestili dal 1600 al 10000;
