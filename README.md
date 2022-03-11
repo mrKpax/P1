@@ -59,8 +59,6 @@ Primi programmi, fini a sé stessi.
 - **elencocognomi**: riceve un elenco di nomi e cognomi (array bi di stringhe allocate dinamicamente) e dato un certo nome stampa i cognomi corrispondenti
 
 ## Record:
-- **record**: nozioni generali sui record;
-___________________________________________
 - **codicefiscale**: verifica che il formato del codice fiscale sia corretto; 
 - **distanza**: calcola la distanza tra due punti (esempio);
 - **elencopersone**: crea e stampa un elenco di persone + varie funzioni di ricerca;
