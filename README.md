@@ -46,8 +46,6 @@ Primi programmi, fini a sé stessi.
 - **tavolapitagorica**: stampa una tavola pitagorica (array bidimensionali);
 
 ## Puntatori:
-- **puntatori**: nozioni generali sui puntatori;
-________________________________________________
 - **azzera**: esempio di passaggi di parametri per indirizzo per modificare una variabile;
 - **divisioneintera**: esempio di funzione con duplice risultato;
 - **maxmin**: massimo e minimo in un array;
