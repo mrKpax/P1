@@ -59,8 +59,6 @@ Primi programmi, fini a sé stessi.
 - **allocazionedinamica**: nozioni generali sull'allocazione dinamica (malloc, calloc, free);
 _____________________________________________________________________________________________
 - **elencocognomi**: riceve un elenco di nomi e cognomi (array bi di stringhe allocate dinamicamente) e dato un certo nome stampa i cognomi corrispondenti
-- **leggistringa**: funzioni per leggere stringhe;
-- **xmalloc**: malloc con controllo;
 
 ## Record:
 - **record**: nozioni generali sui record;
