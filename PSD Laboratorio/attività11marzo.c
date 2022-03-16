@@ -48,7 +48,6 @@ char *incastona(char *longer, char *shorter)
             {
                 result[i] = longer[i];
             }
-        }
     }
     return result;
 }
@@ -58,11 +57,11 @@ void inverti(char **matrice)
     char temp[strlen(a[0]+1)];
     strcpy(temp, matrice[0]);
 
-    matrice[0] = xrealloc(matrice[0],strlen(matice[1]+1));
+    matrice[0] = xrealloc(matrice[0],strlen(matrice[1]+1));
     strcpy(matrice[0],matrice[1]);
 
-    matrice[1] = xrealloc(matrice[1],strlen(stemp)+1);
-    strcpy(matrice[1],stemp);
+    matrice[1] = xrealloc(matrice[1],strlen(temp)+1);
+    strcpy(matrice[1],temp);
 
     printf("Prima stringa: %s\n", matrice[0]);
     printf("Secondaa stringa: %s\n", matrice[1]);
@@ -74,9 +73,9 @@ void crea(char **matrice)
     matrice[2] = xmalloc(7);
 
     strncpy(matrice[2],matrice[1],3);
-    strcat(matrice[2],matrice[0][strlen(a[0])-3]);
+    strcat(matrice[2],matrice[0][strlen(matrice[0])-3]);
 
-    printf("\n%s\n", a[2]);
+    printf("\n%s\n", matrice[2]);
 }
 
 void swap(char matrice[], int i, int j)
@@ -114,7 +113,7 @@ void ordina(char **matrice)
     }
 
     printf("\nNome: %s\n", matrice[1]);
-    printf("\nCognome: %s\n", cognome[0]);
+    printf("\nCognome: %s\n", matrice[0]);
 }
 
 int main()
