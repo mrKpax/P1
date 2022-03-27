@@ -1,5 +1,5 @@
 # Linguaggio C 💻📚
-Programmi in C per il corso di Programmazione (P1 e Strutture Dati)
+Programmi in C per il corso di Programmazione I
 
 ## Robaccia:
 Primi programmi, fini a sé stessi.
