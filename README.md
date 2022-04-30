@@ -63,3 +63,6 @@ Primi programmi, fini a sé stessi.
 - **distanza**: calcola la distanza tra due punti (esempio);
 - **elencopersone**: crea e stampa un elenco di persone + varie funzioni di ricerca;
 - **triangoli**: confronta due triangoli e verifica se i lati sono uguali;
+
+## Utility:
+- **leggi_stringa**: funzione per leggere una stringa dallo standard input;
