@@ -57,6 +57,7 @@ Primi programmi, fini a sé stessi.
 
 ## Allocazione dinamica:
 - **elencocognomi**: riceve un elenco di nomi e cognomi (array bi di stringhe allocate dinamicamente) e dato un certo nome stampa i cognomi corrispondenti
+- **arraypuntatori**: esempio completo di array di puntatori;
 
 ## Record:
 - **codicefiscale**: verifica che il formato del codice fiscale sia corretto; 
