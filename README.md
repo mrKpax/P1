@@ -56,8 +56,8 @@ Primi programmi, fini a sé stessi.
 - **postfisso**: verifica se una stringa è postfissa di un'altra e restituisce l'indirizzo in cui comincia il postfisso (strcmp, puntatori);
 
 ## Allocazione dinamica:
-- **elencocognomi**: riceve un elenco di nomi e cognomi (array bi di stringhe allocate dinamicamente) e dato un certo nome stampa i cognomi corrispondenti
 - **arraypuntatori**: esempio completo di array di puntatori;
+- **elencocognomi**: riceve un elenco di nomi e cognomi (array bi di stringhe allocate dinamicamente) e dato un certo nome stampa i cognomi corrispondenti
 
 ## Record:
 - **codicefiscale**: verifica che il formato del codice fiscale sia corretto; 
