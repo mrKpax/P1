@@ -7,7 +7,7 @@ int *leggiNvalori (int numval)
     return NULL;
   }
   
-  for (int i=0; i<numvaI; i++)
+  for (int i=0; i<numval; i++)
   {
     printf("Inserire valore (%d): ", i); 
     scanf("%d", &A[i]);
