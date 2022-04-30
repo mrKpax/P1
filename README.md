@@ -65,4 +65,4 @@ Primi programmi, fini a sé stessi.
 - **triangoli**: confronta due triangoli e verifica se i lati sono uguali;
 
 ## Utility:
-- **leggi_stringa**: funzione per leggere una stringa dallo standard input;
+- **leggistringa**: funzione per leggere una stringa dallo standard input;
