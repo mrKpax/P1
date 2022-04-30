@@ -57,7 +57,10 @@ Primi programmi, fini a sé stessi.
 
 ## Allocazione dinamica:
 - **arraypuntatori**: esempio completo di array di puntatori;
-- **elencocognomi**: riceve un elenco di nomi e cognomi (array bi di stringhe allocate dinamicamente) e dato un certo nome stampa i cognomi corrispondenti
+- **calloc.c**: esempio di uso di calloc;
+- **elencocognomi**: riceve un elenco di nomi e cognomi (array bi di stringhe allocate dinamicamente) e dato un certo nome stampa i cognomi corrispondenti;
+- **malloc.c**: esempio di uso di malloc;
+- **xmalloc.c**: malloc con controllo;
 
 ## Record:
 - **codicefiscale**: verifica che il formato del codice fiscale sia corretto; 
